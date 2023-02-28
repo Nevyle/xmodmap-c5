@@ -17,3 +17,5 @@ sleep 1
 xdotool type "/root/.xmodmap-c5-main/keycode77.sh"
 sleep 1
 xdotool key Return
+sleep 3
+init 6
