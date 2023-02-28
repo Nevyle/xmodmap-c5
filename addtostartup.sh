@@ -12,7 +12,7 @@ xdotool mousemove 370 250 click 1
 sleep 1
 xdotool mousemove 950 220 click 1
 sleep 1
-xdotool mousemove 950 180
+xdotool mousemove 950 180 click 1
 sleep 1
 xdotool type "/root/.xmodmap-c5-main/keycode77.sh"
 sleep 1
