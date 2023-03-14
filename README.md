@@ -1,2 +1,1 @@
-# xmodmap-c5
-Inutilizar tecla NumLock no Linux KDE distribuído pela C5
+![img1](https://github.com/Nevyle/svgs/blob/main/xmodmapmain.svg)
